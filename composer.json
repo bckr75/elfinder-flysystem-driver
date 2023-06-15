@@ -1,17 +1,21 @@
 {
-    "name": "barryvdh/elfinder-flysystem-driver",
-    "description": "A Flysystem Driver for elFinder",
+    "name": "bckr75/elfinder-flysystem-driver",
+    "description": "An utility fork of barryvdh's Flysystem Driver for elFinder",
     "license": "MIT",
     "keywords": ["elfinder", "flysystem", "filesystem"],
     "authors": [
         {
             "name": "Barry vd. Heuvel",
             "email": "barryvdh@gmail.com"
+        },
+        {
+            "name": "Vsevolod Krasnobaev",
+            "email": "maximov.vsev@gmail.com"
         }
     ],
     "require": {
         "php": "^8.0",
-        "studio-42/elfinder": "^2.1.60",
+        "studio-42/elfinder": "^2.1.62",
         "league/flysystem": "^3",
         "intervention/image": "^2.0"
     },
