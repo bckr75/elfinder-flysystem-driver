@@ -4,7 +4,7 @@
 
 Require this package in your composer.json and update composer. 
 
-    composer require barryvdh/elfinder-flysystem-driver
+    composer require bckr75/elfinder-flysystem-driver
     
 This will require Flysystem, but you might need additional adapters to fit your purpose. 
 See https://github.com/thephpleague/flysystem for more information.
